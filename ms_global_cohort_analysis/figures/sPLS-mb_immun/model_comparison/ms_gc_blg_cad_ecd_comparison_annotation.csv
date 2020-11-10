@@ -1,0 +1,5 @@
+"","Estimate","p.value","X.var","Y.var"
+"1",-0.407,0.000565384989298794,"OTU_1 G_Bacteroides","IL-1b_PAM"
+"2",-0.396,0.000823066474625775,"OTU_3760 G_Bacteroides","IL-1b_PAM"
+"3",-0.334,0.00539638167688617,"OTU_1 G_Bacteroides","MIP-1a_PAM"
+"4",-0.359,0.00261194660960626,"OTU_3760 G_Bacteroides","MIP-1a_PAM"

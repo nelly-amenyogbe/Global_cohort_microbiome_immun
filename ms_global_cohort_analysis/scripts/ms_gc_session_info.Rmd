@@ -1,0 +1,38 @@
+---
+title: "ms_gc_package_versions"
+author: "Nelly Amenyogbe"
+date: "8/21/2020"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+```{r, message = FALSE}
+# packages used for ms_global_cohort_manusript analysis
+library(plyr)
+library(dplyr)
+library(ggplot2)
+library(phyloseq)
+library(DESeq2)
+library(missForest)
+library(reshape2)
+library(mixOmics)
+library(cowplot)
+library(vegan)
+library(devtools)
+library(cowplot)
+library(splines)
+library(pheatmap)
+library(igraph)
+library(plotrix)
+library(dunn.test)
+library(tidyr)
+```
+
+
+
+```{r}
+# now get the versions of all packages used
+sessionInfo()
+```

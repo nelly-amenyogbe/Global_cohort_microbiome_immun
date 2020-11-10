@@ -1,0 +1,5 @@
+"","Estimate","p.value","X.var","Y.var"
+"1",0.484,0.0356283368455756,"OTU_1814 G_Lachnospira","IL-10_PAM"
+"2",0.611,0.00549494360888897,"OTU_58 G_Faecalibacterium","IL-10_PAM"
+"3",0.499,0.0296500126669119,"OTU_1814 G_Lachnospira","IL-1b_PAM"
+"4",0.571,0.0106625671195403,"OTU_58 G_Faecalibacterium","IL-1b_PAM"

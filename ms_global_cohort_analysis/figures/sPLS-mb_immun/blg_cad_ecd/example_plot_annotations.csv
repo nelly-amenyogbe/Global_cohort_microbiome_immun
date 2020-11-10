@@ -1,0 +1,5 @@
+"","Estimate","p.value","X.var","Y.var"
+"1",-0.406,0.000593550449939178,"OTU_1 G_Bacteroides","IL-10_PAM"
+"2",0.357,0.00284278139560451,"OTU_2215 G_Prevotella","IL-10_PAM"
+"3",-0.419,0.00037820927619314,"OTU_1 G_Bacteroides","IP-10_PAM"
+"4",0.326,0.0067069605809018,"OTU_2215 G_Prevotella","IP-10_PAM"

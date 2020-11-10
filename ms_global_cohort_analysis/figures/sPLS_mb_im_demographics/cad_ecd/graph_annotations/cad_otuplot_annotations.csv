@@ -1,0 +1,5 @@
+"","Estimate","p.value","X.var","Y.var"
+"1",0.448,0.0542113888556189,"OTU_1 G_Bacteroides","MOM_AGE"
+"2",-0.084,0.733105662690674,"OTU_2 G_Prevotella","MOM_AGE"
+"3",0.041,0.868288390767974,"OTU_1 G_Bacteroides","HAZ"
+"4",0.096,0.694884577354695,"OTU_2 G_Prevotella","HAZ"

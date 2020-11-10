@@ -1,0 +1,5 @@
+"","Estimate","p.value","X.var","Y.var"
+"1",-0.776,0.0404556257973751,"OTU_1041 O_Clostridiales","IL-10_PGN"
+"2",-0.826,0.022165042875287,"OTU_4077 F_Ruminococcaceae","IL-10_PGN"
+"3",-0.793,0.0332093345271205,"OTU_1041 O_Clostridiales","IL-12p40_PGN"
+"4",-0.917,0.00364384231617704,"OTU_4077 F_Ruminococcaceae","IL-12p40_PGN"

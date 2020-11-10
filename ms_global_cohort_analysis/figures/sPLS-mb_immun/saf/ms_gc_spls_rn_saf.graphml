@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_shape" for="node" attr.name="shape" attr.type="string"/>
+  <key id="v_size" for="node" attr.name="size" attr.type="double"/>
+  <key id="v_color" for="node" attr.name="color" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_label.color" for="node" attr.name="label.color" attr.type="string"/>
+  <key id="v_label.cex" for="node" attr.name="label.cex" attr.type="double"/>
+  <key id="v_label.font" for="node" attr.name="label.font" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="e_color" for="edge" attr.name="color" attr.type="string"/>
+  <key id="e_width" for="edge" attr.name="width" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">OTU_1229 K_Bacteria</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#969696</data>
+      <data key="v_label">K_Bacteria</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">OTU_136 G_Blautia</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#1f78b4</data>
+      <data key="v_label">G_Blautia</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">OTU_214 P_Firmicutes</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#e31a1c</data>
+      <data key="v_label">P_Firmicutes</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">OTU_2371 G_Faecalibacterium</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#33a02c</data>
+      <data key="v_label">G_Faecalibacterium</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">OTU_3998 G_Faecalibacterium</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">10</data>
+      <data key="v_color">#33a02c</data>
+      <data key="v_label">G_Faecalibacterium</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">OTU_4134 P_Firmicutes</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#e31a1c</data>
+      <data key="v_label">P_Firmicutes</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">OTU_458 G_Lachnospira</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#1f78b4</data>
+      <data key="v_label">G_Lachnospira</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">OTU_1414 K_Bacteria</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">8</data>
+      <data key="v_color">#969696</data>
+      <data key="v_label">K_Bacteria</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">OTU_2057 K_Bacteria</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">8</data>
+      <data key="v_color">#969696</data>
+      <data key="v_label">K_Bacteria</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">OTU_3679 F_Lachnospiraceae</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">8</data>
+      <data key="v_color">#1f78b4</data>
+      <data key="v_label">F_Lachnospiraceae</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">OTU_622 F_Lachnospiraceae</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">6</data>
+      <data key="v_color">#1f78b4</data>
+      <data key="v_label">F_Lachnospiraceae</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">OTU_1041 O_Clostridiales</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#fdbf6f</data>
+      <data key="v_label">O_Clostridiales</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">OTU_1784 K_Bacteria</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">6</data>
+      <data key="v_color">#969696</data>
+      <data key="v_label">K_Bacteria</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">OTU_183 P_Firmicutes</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">10</data>
+      <data key="v_color">#e31a1c</data>
+      <data key="v_label">P_Firmicutes</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">OTU_299 F_Lachnospiraceae</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">8</data>
+      <data key="v_color">#1f78b4</data>
+      <data key="v_label">F_Lachnospiraceae</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">OTU_3071 K_Bacteria</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">6</data>
+      <data key="v_color">#969696</data>
+      <data key="v_label">K_Bacteria</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">OTU_4077 F_Ruminococcaceae</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">8</data>
+      <data key="v_color">#33a02c</data>
+      <data key="v_label">F_Ruminococcaceae</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">OTU_52 P_Firmicutes</data>
+      <data key="v_shape">circle</data>
+      <data key="v_size">6</data>
+      <data key="v_color">#e31a1c</data>
+      <data key="v_label">P_Firmicutes</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">IFNa2_Unstim</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#ffff33</data>
+      <data key="v_label">IFNa2</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">IL-10_LPS</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">12</data>
+      <data key="v_color">#984ea3</data>
+      <data key="v_label">IL-10</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">IL-10_PGN</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">12</data>
+      <data key="v_color">#377eb8</data>
+      <data key="v_label">IL-10</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">IL-10_Unstim</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#ffff33</data>
+      <data key="v_label">IL-10</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">IL-12p40_PGN</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#377eb8</data>
+      <data key="v_label">IL-12p40</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">IL-12p40_R848</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">8</data>
+      <data key="v_color">#ff7f00</data>
+      <data key="v_label">IL-12p40</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">IL-1b_PGN</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">10</data>
+      <data key="v_color">#377eb8</data>
+      <data key="v_label">IL-1b</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">IL-8_LPS</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#984ea3</data>
+      <data key="v_label">IL-8</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">IL-8_PGN</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#377eb8</data>
+      <data key="v_label">IL-8</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">IL-8_R848</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">12</data>
+      <data key="v_color">#ff7f00</data>
+      <data key="v_label">IL-8</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">IL-8_Unstim</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">14</data>
+      <data key="v_color">#ffff33</data>
+      <data key="v_label">IL-8</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">IP-10_pIC</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">12</data>
+      <data key="v_color">#4daf4a</data>
+      <data key="v_label">IP-10</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">MIP-1a_PGN</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">12</data>
+      <data key="v_color">#377eb8</data>
+      <data key="v_label">MIP-1a</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">MIP-1a_R848</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">6</data>
+      <data key="v_color">#ff7f00</data>
+      <data key="v_label">MIP-1a</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">MIP-1b_R848</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">10</data>
+      <data key="v_color">#ff7f00</data>
+      <data key="v_label">MIP-1b</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">TNFa_LPS</data>
+      <data key="v_shape">rectangle</data>
+      <data key="v_size">8</data>
+      <data key="v_color">#984ea3</data>
+      <data key="v_label">TNFa</data>
+      <data key="v_label.color">#252525</data>
+      <data key="v_label.cex">0.5</data>
+      <data key="v_label.font">2</data>
+    </node>
+    <edge source="n0" target="n18">
+      <data key="e_weight">0.823</data>
+      <data key="e_color">#B40000</data>
+      <data key="e_width">2.469</data>
+    </edge>
+    <edge source="n1" target="n18">
+      <data key="e_weight">0.881</data>
+      <data key="e_color">#A60000</data>
+      <data key="e_width">2.643</data>
+    </edge>
+    <edge source="n2" target="n18">
+      <data key="e_weight">0.826</data>
+      <data key="e_color">#B20000</data>
+      <data key="e_width">2.478</data>
+    </edge>
+    <edge source="n3" target="n18">
+      <data key="e_weight">0.816</data>
+      <data key="e_color">#B40000</data>
+      <data key="e_width">2.448</data>
+    </edge>
+    <edge source="n4" target="n18">
+      <data key="e_weight">0.843</data>
+      <data key="e_color">#B00000</data>
+      <data key="e_width">2.529</data>
+    </edge>
+    <edge source="n5" target="n18">
+      <data key="e_weight">0.791</data>
+      <data key="e_color">#BB0000</data>
+      <data key="e_width">2.373</data>
+    </edge>
+    <edge source="n6" target="n18">
+      <data key="e_weight">0.797</data>
+      <data key="e_color">#B90000</data>
+      <data key="e_width">2.391</data>
+    </edge>
+    <edge source="n7" target="n19">
+      <data key="e_weight">0.829</data>
+      <data key="e_color">#B20000</data>
+      <data key="e_width">2.487</data>
+    </edge>
+    <edge source="n8" target="n19">
+      <data key="e_weight">0.868</data>
+      <data key="e_color">#A90000</data>
+      <data key="e_width">2.604</data>
+    </edge>
+    <edge source="n9" target="n19">
+      <data key="e_weight">0.854</data>
+      <data key="e_color">#AD0000</data>
+      <data key="e_width">2.562</data>
+    </edge>
+    <edge source="n10" target="n19">
+      <data key="e_weight">0.811</data>
+      <data key="e_color">#B70000</data>
+      <data key="e_width">2.433</data>
+    </edge>
+    <edge source="n11" target="n20">
+      <data key="e_weight">-0.776</data>
+      <data key="e_color">#0000BE</data>
+      <data key="e_width">2.328</data>
+    </edge>
+    <edge source="n12" target="n20">
+      <data key="e_weight">-0.942</data>
+      <data key="e_color">#000098</data>
+      <data key="e_width">2.826</data>
+    </edge>
+    <edge source="n13" target="n20">
+      <data key="e_weight">-0.917</data>
+      <data key="e_color">#00009D</data>
+      <data key="e_width">2.751</data>
+    </edge>
+    <edge source="n14" target="n20">
+      <data key="e_weight">-0.756</data>
+      <data key="e_color">#0000C2</data>
+      <data key="e_width">2.268</data>
+    </edge>
+    <edge source="n15" target="n20">
+      <data key="e_weight">-0.811</data>
+      <data key="e_color">#0000B7</data>
+      <data key="e_width">2.433</data>
+    </edge>
+    <edge source="n16" target="n20">
+      <data key="e_weight">-0.826</data>
+      <data key="e_color">#0000B2</data>
+      <data key="e_width">2.478</data>
+    </edge>
+    <edge source="n0" target="n21">
+      <data key="e_weight">-0.875</data>
+      <data key="e_color">#0000A6</data>
+      <data key="e_width">2.625</data>
+    </edge>
+    <edge source="n1" target="n21">
+      <data key="e_weight">-0.853</data>
+      <data key="e_color">#0000AD</data>
+      <data key="e_width">2.559</data>
+    </edge>
+    <edge source="n2" target="n21">
+      <data key="e_weight">-0.857</data>
+      <data key="e_color">#0000AB</data>
+      <data key="e_width">2.571</data>
+    </edge>
+    <edge source="n3" target="n21">
+      <data key="e_weight">-0.834</data>
+      <data key="e_color">#0000B2</data>
+      <data key="e_width">2.502</data>
+    </edge>
+    <edge source="n4" target="n21">
+      <data key="e_weight">-0.932</data>
+      <data key="e_color">#00009B</data>
+      <data key="e_width">2.796</data>
+    </edge>
+    <edge source="n5" target="n21">
+      <data key="e_weight">-0.803</data>
+      <data key="e_color">#0000B9</data>
+      <data key="e_width">2.409</data>
+    </edge>
+    <edge source="n6" target="n21">
+      <data key="e_weight">-0.816</data>
+      <data key="e_color">#0000B4</data>
+      <data key="e_width">2.448</data>
+    </edge>
+    <edge source="n11" target="n22">
+      <data key="e_weight">-0.793</data>
+      <data key="e_color">#0000BB</data>
+      <data key="e_width">2.379</data>
+    </edge>
+    <edge source="n12" target="n22">
+      <data key="e_weight">-0.916</data>
+      <data key="e_color">#00009D</data>
+      <data key="e_width">2.748</data>
+    </edge>
+    <edge source="n13" target="n22">
+      <data key="e_weight">-0.852</data>
+      <data key="e_color">#0000AD</data>
+      <data key="e_width">2.556</data>
+    </edge>
+    <edge source="n14" target="n22">
+      <data key="e_weight">-0.89</data>
+      <data key="e_color">#0000A4</data>
+      <data key="e_width">2.67</data>
+    </edge>
+    <edge source="n15" target="n22">
+      <data key="e_weight">-0.885</data>
+      <data key="e_color">#0000A6</data>
+      <data key="e_width">2.655</data>
+    </edge>
+    <edge source="n16" target="n22">
+      <data key="e_weight">-0.917</data>
+      <data key="e_color">#00009D</data>
+      <data key="e_width">2.751</data>
+    </edge>
+    <edge source="n17" target="n22">
+      <data key="e_weight">-0.899</data>
+      <data key="e_color">#0000A2</data>
+      <data key="e_width">2.697</data>
+    </edge>
+    <edge source="n11" target="n23">
+      <data key="e_weight">-0.894</data>
+      <data key="e_color">#0000A4</data>
+      <data key="e_width">2.682</data>
+    </edge>
+    <edge source="n13" target="n23">
+      <data key="e_weight">-0.776</data>
+      <data key="e_color">#0000BE</data>
+      <data key="e_width">2.328</data>
+    </edge>
+    <edge source="n8" target="n23">
+      <data key="e_weight">-0.773</data>
+      <data key="e_color">#0000C0</data>
+      <data key="e_width">2.319</data>
+    </edge>
+    <edge source="n14" target="n23">
+      <data key="e_weight">-0.77</data>
+      <data key="e_color">#0000C0</data>
+      <data key="e_width">2.31</data>
+    </edge>
+    <edge source="n11" target="n24">
+      <data key="e_weight">-0.78</data>
+      <data key="e_color">#0000BE</data>
+      <data key="e_width">2.34</data>
+    </edge>
+    <edge source="n12" target="n24">
+      <data key="e_weight">-0.874</data>
+      <data key="e_color">#0000A9</data>
+      <data key="e_width">2.622</data>
+    </edge>
+    <edge source="n13" target="n24">
+      <data key="e_weight">-0.816</data>
+      <data key="e_color">#0000B4</data>
+      <data key="e_width">2.448</data>
+    </edge>
+    <edge source="n16" target="n24">
+      <data key="e_weight">-0.864</data>
+      <data key="e_color">#0000AB</data>
+      <data key="e_width">2.592</data>
+    </edge>
+    <edge source="n17" target="n24">
+      <data key="e_weight">-0.782</data>
+      <data key="e_color">#0000BE</data>
+      <data key="e_width">2.346</data>
+    </edge>
+    <edge source="n0" target="n25">
+      <data key="e_weight">-0.946</data>
+      <data key="e_color">#000096</data>
+      <data key="e_width">2.838</data>
+    </edge>
+    <edge source="n1" target="n25">
+      <data key="e_weight">-0.9</data>
+      <data key="e_color">#0000A2</data>
+      <data key="e_width">2.7</data>
+    </edge>
+    <edge source="n2" target="n25">
+      <data key="e_weight">-0.953</data>
+      <data key="e_color">#000096</data>
+      <data key="e_width">2.859</data>
+    </edge>
+    <edge source="n3" target="n25">
+      <data key="e_weight">-0.938</data>
+      <data key="e_color">#000098</data>
+      <data key="e_width">2.814</data>
+    </edge>
+    <edge source="n4" target="n25">
+      <data key="e_weight">-0.825</data>
+      <data key="e_color">#0000B4</data>
+      <data key="e_width">2.475</data>
+    </edge>
+    <edge source="n5" target="n25">
+      <data key="e_weight">-0.924</data>
+      <data key="e_color">#00009D</data>
+      <data key="e_width">2.772</data>
+    </edge>
+    <edge source="n6" target="n25">
+      <data key="e_weight">-0.939</data>
+      <data key="e_color">#000098</data>
+      <data key="e_width">2.817</data>
+    </edge>
+    <edge source="n0" target="n26">
+      <data key="e_weight">-0.945</data>
+      <data key="e_color">#000098</data>
+      <data key="e_width">2.835</data>
+    </edge>
+    <edge source="n1" target="n26">
+      <data key="e_weight">-0.898</data>
+      <data key="e_color">#0000A2</data>
+      <data key="e_width">2.694</data>
+    </edge>
+    <edge source="n2" target="n26">
+      <data key="e_weight">-0.914</data>
+      <data key="e_color">#00009F</data>
+      <data key="e_width">2.742</data>
+    </edge>
+    <edge source="n3" target="n26">
+      <data key="e_weight">-0.916</data>
+      <data key="e_color">#00009D</data>
+      <data key="e_width">2.748</data>
+    </edge>
+    <edge source="n4" target="n26">
+      <data key="e_weight">-0.829</data>
+      <data key="e_color">#0000B2</data>
+      <data key="e_width">2.487</data>
+    </edge>
+    <edge source="n5" target="n26">
+      <data key="e_weight">-0.905</data>
+      <data key="e_color">#0000A2</data>
+      <data key="e_width">2.715</data>
+    </edge>
+    <edge source="n6" target="n26">
+      <data key="e_weight">-0.898</data>
+      <data key="e_color">#0000A2</data>
+      <data key="e_width">2.694</data>
+    </edge>
+    <edge source="n0" target="n27">
+      <data key="e_weight">-0.865</data>
+      <data key="e_color">#0000AB</data>
+      <data key="e_width">2.595</data>
+    </edge>
+    <edge source="n1" target="n27">
+      <data key="e_weight">-0.858</data>
+      <data key="e_color">#0000AB</data>
+      <data key="e_width">2.574</data>
+    </edge>
+    <edge source="n2" target="n27">
+      <data key="e_weight">-0.863</data>
+      <data key="e_color">#0000AB</data>
+      <data key="e_width">2.589</data>
+    </edge>
+    <edge source="n3" target="n27">
+      <data key="e_weight">-0.88</data>
+      <data key="e_color">#0000A6</data>
+      <data key="e_width">2.64</data>
+    </edge>
+    <edge source="n5" target="n27">
+      <data key="e_weight">-0.882</data>
+      <data key="e_color">#0000A6</data>
+      <data key="e_width">2.646</data>
+    </edge>
+    <edge source="n6" target="n27">
+      <data key="e_weight">-0.874</data>
+      <data key="e_color">#0000A9</data>
+      <data key="e_width">2.622</data>
+    </edge>
+    <edge source="n0" target="n28">
+      <data key="e_weight">0.954</data>
+      <data key="e_color">#960000</data>
+      <data key="e_width">2.862</data>
+    </edge>
+    <edge source="n1" target="n28">
+      <data key="e_weight">0.957</data>
+      <data key="e_color">#940000</data>
+      <data key="e_width">2.871</data>
+    </edge>
+    <edge source="n2" target="n28">
+      <data key="e_weight">0.944</data>
+      <data key="e_color">#980000</data>
+      <data key="e_width">2.832</data>
+    </edge>
+    <edge source="n3" target="n28">
+      <data key="e_weight">0.971</data>
+      <data key="e_color">#910000</data>
+      <data key="e_width">2.913</data>
+    </edge>
+    <edge source="n4" target="n28">
+      <data key="e_weight">0.771</data>
+      <data key="e_color">#C00000</data>
+      <data key="e_width">2.313</data>
+    </edge>
+    <edge source="n5" target="n28">
+      <data key="e_weight">0.976</data>
+      <data key="e_color">#8F0000</data>
+      <data key="e_width">2.928</data>
+    </edge>
+    <edge source="n6" target="n28">
+      <data key="e_weight">0.958</data>
+      <data key="e_color">#940000</data>
+      <data key="e_width">2.874</data>
+    </edge>
+    <edge source="n11" target="n29">
+      <data key="e_weight">-0.887</data>
+      <data key="e_color">#0000A4</data>
+      <data key="e_width">2.661</data>
+    </edge>
+    <edge source="n13" target="n29">
+      <data key="e_weight">-0.812</data>
+      <data key="e_color">#0000B7</data>
+      <data key="e_width">2.436</data>
+    </edge>
+    <edge source="n14" target="n29">
+      <data key="e_weight">-0.874</data>
+      <data key="e_color">#0000A9</data>
+      <data key="e_width">2.622</data>
+    </edge>
+    <edge source="n15" target="n29">
+      <data key="e_weight">-0.839</data>
+      <data key="e_color">#0000B0</data>
+      <data key="e_width">2.517</data>
+    </edge>
+    <edge source="n16" target="n29">
+      <data key="e_weight">-0.889</data>
+      <data key="e_color">#0000A4</data>
+      <data key="e_width">2.667</data>
+    </edge>
+    <edge source="n17" target="n29">
+      <data key="e_weight">-0.952</data>
+      <data key="e_color">#000096</data>
+      <data key="e_width">2.856</data>
+    </edge>
+    <edge source="n0" target="n30">
+      <data key="e_weight">-0.769</data>
+      <data key="e_color">#0000C0</data>
+      <data key="e_width">2.307</data>
+    </edge>
+    <edge source="n1" target="n30">
+      <data key="e_weight">-0.812</data>
+      <data key="e_color">#0000B7</data>
+      <data key="e_width">2.436</data>
+    </edge>
+    <edge source="n2" target="n30">
+      <data key="e_weight">-0.76</data>
+      <data key="e_color">#0000C2</data>
+      <data key="e_width">2.28</data>
+    </edge>
+    <edge source="n3" target="n30">
+      <data key="e_weight">-0.776</data>
+      <data key="e_color">#0000BE</data>
+      <data key="e_width">2.328</data>
+    </edge>
+    <edge source="n5" target="n30">
+      <data key="e_weight">-0.763</data>
+      <data key="e_color">#0000C2</data>
+      <data key="e_width">2.289</data>
+    </edge>
+    <edge source="n6" target="n30">
+      <data key="e_weight">-0.757</data>
+      <data key="e_color">#0000C2</data>
+      <data key="e_width">2.271</data>
+    </edge>
+    <edge source="n7" target="n31">
+      <data key="e_weight">-0.801</data>
+      <data key="e_color">#0000B9</data>
+      <data key="e_width">2.403</data>
+    </edge>
+    <edge source="n9" target="n31">
+      <data key="e_weight">-0.817</data>
+      <data key="e_color">#0000B4</data>
+      <data key="e_width">2.451</data>
+    </edge>
+    <edge source="n10" target="n31">
+      <data key="e_weight">-0.82</data>
+      <data key="e_color">#0000B4</data>
+      <data key="e_width">2.46</data>
+    </edge>
+    <edge source="n11" target="n32">
+      <data key="e_weight">-0.825</data>
+      <data key="e_color">#0000B4</data>
+      <data key="e_width">2.475</data>
+    </edge>
+    <edge source="n7" target="n32">
+      <data key="e_weight">-0.844</data>
+      <data key="e_color">#0000B0</data>
+      <data key="e_width">2.532</data>
+    </edge>
+    <edge source="n8" target="n32">
+      <data key="e_weight">-0.797</data>
+      <data key="e_color">#0000B9</data>
+      <data key="e_width">2.391</data>
+    </edge>
+    <edge source="n9" target="n32">
+      <data key="e_weight">-0.857</data>
+      <data key="e_color">#0000AB</data>
+      <data key="e_width">2.571</data>
+    </edge>
+    <edge source="n10" target="n32">
+      <data key="e_weight">-0.836</data>
+      <data key="e_color">#0000B0</data>
+      <data key="e_width">2.508</data>
+    </edge>
+    <edge source="n11" target="n33">
+      <data key="e_weight">0.788</data>
+      <data key="e_color">#BB0000</data>
+      <data key="e_width">2.364</data>
+    </edge>
+    <edge source="n7" target="n33">
+      <data key="e_weight">0.763</data>
+      <data key="e_color">#C20000</data>
+      <data key="e_width">2.289</data>
+    </edge>
+    <edge source="n8" target="n33">
+      <data key="e_weight">0.892</data>
+      <data key="e_color">#A40000</data>
+      <data key="e_width">2.676</data>
+    </edge>
+    <edge source="n9" target="n33">
+      <data key="e_weight">0.824</data>
+      <data key="e_color">#B40000</data>
+      <data key="e_width">2.472</data>
+    </edge>
+  </graph>
+</graphml>

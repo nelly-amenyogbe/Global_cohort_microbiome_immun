@@ -1,0 +1,5 @@
+"","Estimate","p.value","X.var","Y.var"
+"1",-0.308,0.0504344771512771,"OTU_1 G_Bacteroides","IFNg_PGN"
+"2",0.376,0.0152581923502144,"OTU_1569 G_Prevotella","IFNg_PGN"
+"3",-0.416,0.00688091622106417,"OTU_1 G_Bacteroides","IL-12p40_PGN"
+"4",0.49,0.00115712559061104,"OTU_1569 G_Prevotella","IL-12p40_PGN"
